@@ -27,7 +27,13 @@ a comment! */
  background: #ccc;
 }
 
-
+[class*="col-"] {
+  margin-left: 2%;
+}
+ 
+.first {
+  margin-left: 0;
+}
 
 
 /* Type selector */
